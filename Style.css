@@ -182,3 +182,9 @@ body{
         opacity: 1;
     }
 }
+
+.footer{
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
